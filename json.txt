@@ -1,0 +1,149 @@
+{
+   "query":{
+      "count":1,
+      "created":"2017-04-21T21:03:39Z",
+      "lang":"en-US",
+      "results":{
+         "channel":{
+            "units":{
+               "distance":"mi",
+               "pressure":"in",
+               "speed":"mph",
+               "temperature":"F"
+            },
+            "title":"Yahoo! Weather - Cordoba, CBA, AR",
+            "link":"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-466861/",
+            "description":"Yahoo! Weather for Cordoba, CBA, AR",
+            "language":"en-us",
+            "lastBuildDate":"Fri, 21 Apr 2017 06:03 PM ART",
+            "ttl":"60",
+            "location":{
+               "city":"Cordoba",
+               "country":"Argentina",
+               "region":" CBA"
+            },
+            "wind":{
+               "chill":"64",
+               "direction":"203",
+               "speed":"7"
+            },
+            "atmosphere":{
+               "humidity":"66",
+               "pressure":"965.0",
+               "rising":"0",
+               "visibility":"16.1"
+            },
+            "astronomy":{
+               "sunrise":"7:41 am",
+               "sunset":"6:50 pm"
+            },
+            "image":{
+               "title":"Yahoo! Weather",
+               "width":"142",
+               "height":"18",
+               "link":"http://weather.yahoo.com",
+               "url":"http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+            },
+            "item":{
+               "title":"Conditions for Cordoba, CBA, AR at 05:00 PM ART",
+               "lat":"-31.403959",
+               "long":"-64.197929",
+               "link":"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-466861/",
+               "pubDate":"Fri, 21 Apr 2017 05:00 PM ART",
+               "condition":{
+                  "code":"26",
+                  "date":"Fri, 21 Apr 2017 05:00 PM ART",
+                  "temp":"64",
+                  "text":"Cloudy"
+               },
+               "forecast":[
+                  {
+                     "code":"30",
+                     "date":"21 Apr 2017",
+                     "day":"Fri",
+                     "high":"64",
+                     "low":"58",
+                     "text":"Partly Cloudy"
+                  },
+                  {
+                     "code":"30",
+                     "date":"22 Apr 2017",
+                     "day":"Sat",
+                     "high":"67",
+                     "low":"53",
+                     "text":"Partly Cloudy"
+                  },
+                  {
+                     "code":"30",
+                     "date":"23 Apr 2017",
+                     "day":"Sun",
+                     "high":"68",
+                     "low":"52",
+                     "text":"Partly Cloudy"
+                  },
+                  {
+                     "code":"39",
+                     "date":"24 Apr 2017",
+                     "day":"Mon",
+                     "high":"70",
+                     "low":"55",
+                     "text":"Scattered Showers"
+                  },
+                  {
+                     "code":"47",
+                     "date":"25 Apr 2017",
+                     "day":"Tue",
+                     "high":"64",
+                     "low":"51",
+                     "text":"Scattered Thunderstorms"
+                  },
+                  {
+                     "code":"32",
+                     "date":"26 Apr 2017",
+                     "day":"Wed",
+                     "high":"65",
+                     "low":"45",
+                     "text":"Sunny"
+                  },
+                  {
+                     "code":"32",
+                     "date":"27 Apr 2017",
+                     "day":"Thu",
+                     "high":"67",
+                     "low":"53",
+                     "text":"Sunny"
+                  },
+                  {
+                     "code":"32",
+                     "date":"28 Apr 2017",
+                     "day":"Fri",
+                     "high":"75",
+                     "low":"53",
+                     "text":"Sunny"
+                  },
+                  {
+                     "code":"32",
+                     "date":"29 Apr 2017",
+                     "day":"Sat",
+                     "high":"76",
+                     "low":"53",
+                     "text":"Sunny"
+                  },
+                  {
+                     "code":"32",
+                     "date":"30 Apr 2017",
+                     "day":"Sun",
+                     "high":"72",
+                     "low":"53",
+                     "text":"Sunny"
+                  }
+               ],
+               "description":"<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/26.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Fri - Partly Cloudy. High: 64Low: 58\n<BR /> Sat - Partly Cloudy. High: 67Low: 53\n<BR /> Sun - Partly Cloudy. High: 68Low: 52\n<BR /> Mon - Scattered Showers. High: 70Low: 55\n<BR /> Tue - Scattered Thunderstorms. High: 64Low: 51\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-466861/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+               "guid":{
+                  "isPermaLink":"false"
+               }
+            }
+         }
+      }
+   }
+}
