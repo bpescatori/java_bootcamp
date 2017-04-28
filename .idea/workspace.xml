@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48327f00-87c7-4647-8699-414c73f8b0e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Atmosfera.java" afterPath="$PROJECT_DIR$/src/Atmosfera.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Pronostico.java" afterPath="$PROJECT_DIR$/src/Pronostico.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ubicacion.java" afterPath="$PROJECT_DIR$/src/Ubicacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Viento.java" afterPath="$PROJECT_DIR$/src/Viento.java" />
-    </list>
+    <list default="true" id="48327f00-87c7-4647-8699-414c73f8b0e7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/Atmosfera.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
-              <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+              <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
               <folding>
                 <element signature="e#426#427#0" expanded="true" />
                 <element signature="e#464#465#0" expanded="true" />
@@ -461,7 +456,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -599,7 +594,7 @@
     <entry file="file://$PROJECT_DIR$/src/Atmosfera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
-          <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
           <folding>
             <element signature="e#426#427#0" expanded="true" />
             <element signature="e#464#465#0" expanded="true" />
