@@ -2,7 +2,7 @@
 "atmosphere":
     "humidity":"66",
     "pressure":"965.0",
-    "rising":"0",
+    "rising":"0",  PREGUNTAR A QUE SE REFIERE
     "visibility":"16.1"
  */
 public class Atmosfera {
